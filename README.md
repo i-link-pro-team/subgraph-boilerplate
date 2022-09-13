@@ -1,3 +1,5 @@
+![Logo](https://i.postimg.cc/xCtC038W/ilink.png)
+
 # TheGraph subgraph boilerplate
 
 Subgraph boilerplate mostly inspired by [Perpetual Protocol subgraphs](https://github.com/perpetual-protocol/perp-curie-subgraph).
